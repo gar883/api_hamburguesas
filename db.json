@@ -1,0 +1,50 @@
+{
+  "Hamburguesas": [
+    {
+      "id": 1,
+      "nombre": "Clasica",
+      "ingredientes": [
+        "Pan de papa",
+        "Doble carne de 100g c/u",
+        "Doble chedar",
+        "Cebolla",
+        "Tomate",
+        "Salsa rumas"
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Triple Qué",
+      "ingredientes": [
+        "Pan de papa",
+        "Tres carnes de 70g c/u",
+        "Triple Chedar",
+        "Ketchup",
+        "Mostaza",
+        "Cebolla"
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Fried Onion",
+      "ingredientes": [
+        "Pan de papa",
+        "doble carne de 100g c/u",
+        "doble chedar",
+        "Salsa Rumas"
+      ],
+      "bacon": false
+    },
+    {
+      "id": 4,
+      "nombre": "Cheese Burguer",
+      "ingredientes": [
+        "Pan de papa",
+        "Doble carne de 100g c/u",
+        "Doble chedar",
+        "Salsa Rumas"
+      ],
+      "bacon": false
+    }
+  ]
+}
